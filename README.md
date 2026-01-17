@@ -1,0 +1,1 @@
+Final project for my masters machine learning course. Contains a Convolutional Neural Network (CNN) for image classification and Recursive Neural Network (RNN) for a Regression task modelling and predicting power output of a turbine. Any questions, reach out @ james.cole02@hotmail.co.uk.
